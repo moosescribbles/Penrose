@@ -1,41 +1,41 @@
 {
-  "title": "Fog of Graves",
-  "description": "Fog of Graves",
-  "artist": "Storm",
-  "author": "Emma",
-  "cover": "https://i.imgur.com/v4HMvgF.png",
-  "chapters": {
-    "1": {
-      "title": "Intro Comic",
-      "volume": "1",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/102Qqzj/"
+   "title":"Fog of Graves",
+   "description":"Fog of Graves",
+   "artist":"Storm",
+   "author":"Emma",
+   "cover":"https://i.imgur.com/v4HMvgF.png",
+   "chapters":{
+      "1":{
+         "title":"Intro Comic",
+         "volume":"1",
+         "groups":{
+            "Fog":"/proxy/api/imgur/chapter/102Qqzj/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-       "2": {
-      "title": "Grand Battle: Vs 28 Quicksilver",
-      "volume": "1",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/Xzfmbqa/"
+      "2":{
+         "title":"Grand Battle: Vs 28 Quicksilver",
+         "volume":"1",
+         "groups":{
+            "Fog":"/proxy/api/imgur/chapter/Xzfmbqa/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-       "3": {
-      "title": "Royal Blood - Fog of Graves vs Murien",
-      "volume": "1",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/0IrTvKh/"
+      "3":{
+         "title":"Royal Blood - Fog of Graves vs Murien",
+         "volume":"1",
+         "groups":{
+            "Fog":"/proxy/api/imgur/chapter/0IrTvKh/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-       "4": {
-      "title": "Mnem NON CANON",
-      "volume": "1",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/B1ORPYl/"
-      },
-      "last_updated": "1616368746"
-    }
-  }
+      "4":{
+         "title":"Mnem NON CANON",
+         "volume":"1",
+         "groups":{
+            "Fog":"/proxy/api/imgur/chapter/B1ORPYl/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
 }
