@@ -7,7 +7,7 @@
   "author": "Emma",
   "cover": "https://i.imgur.com/v4HMvgF.png",
   "chapters": {
-    "0": {
+    "1": {
       "title": "Intro Comic",
       "volume": "1",
       "groups": {
@@ -15,7 +15,7 @@
       },
       "last_updated": "1616368746"
     },
-       "1": {
+       "2": {
       "title": "Grand Battle: Vs 28 Quicksilver",
       "volume": "1",
       "groups": {
@@ -23,7 +23,7 @@
       },
       "last_updated": "1616368746"
     },
-       "2": {
+       "3": {
       "title": "Royal Blood - Fog of Graves vs Murien",
       "volume": "1",
       "groups": {
@@ -31,7 +31,7 @@
       },
       "last_updated": "1616368746"
     },
-       "3": {
+       "4": {
       "title": "Mnem (NON CANON)",
       "volume": "1",
       "groups": {
