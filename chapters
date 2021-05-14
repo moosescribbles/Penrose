@@ -30,10 +30,18 @@
          "last_updated":"1616368746"
       },
       "4":{
-         "title":"Mnem NON CANON",
+         "title":"Mnem (Loss/NON CANON)",
          "volume":"1",
          "groups":{
             "Fog":"/proxy/api/imgur/chapter/B1ORPYl/"
+         },
+         "last_updated":"1616368746"
+               },
+      "4":{
+         "title":"Catfight - Fog v Vale & Sylvia",
+         "volume":"1",
+         "groups":{
+            "Fog":"/proxy/api/imgur/chapter/TU0j75u/"
          },
          "last_updated":"1616368746"
       }
