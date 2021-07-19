@@ -51,11 +51,13 @@
          "groups":{
             "Fog":"/proxy/api/imgur/chapter/kXikhrM/"
          },
+         "last_updated":"1616368746"
+         },
       "7":{
          "title":"Feat of Clay - Fog v Brickmancer",
          "volume":"1",
          "groups":{
-            "Fog":"/proxy/api/imgur/chapter/NymkM1k/"
+         "Fog":"/proxy/api/imgur/chapter/NymkM1k/"
          },
          "last_updated":"1616368746"         
       }
