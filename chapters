@@ -5,7 +5,7 @@
    "author":"RainbowSamphire",
    "cover":"https://i.imgur.com/v4HMvgF.png",
    "chapters":{
-      "0":{
+      "1":{
          "title":"Intro Comic",
          "volume":"1",
          "groups":{
@@ -61,13 +61,13 @@
          },
          "last_updated":"1626782400"         
           },
-       "9":{
+       "8":{
          "title":"Root & Bud - Baltazar and Fog v Dreglige and Gilebren (Awaiting Result)",
          "volume":"1",
          "groups":{
          "Fog":"/proxy/api/imgur/chapter/eVYzNL1/"
          },
-         "last_updated":"1626782400"    
+         "last_updated":"1637114460"    
       }
    }
 }
