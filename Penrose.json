@@ -1,0 +1,41 @@
+{
+  "title": "Goku Royale 2 Comics",
+  "description": "Goku 2 - Penrose",
+  "artist": "MooseScribbles",
+  "author": "RainbowSamphire",
+  "cover": "https://i.imgur.com/N460OZQ.png",
+  "chapters": {
+      "1": {
+      "title": "Penrose Intro",
+      "volume": "1",
+      "last_updated": "TK0cY5e",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/GJhA7ZP/"
+      }
+    },
+    "2": {
+      "title": "Carcosa - Pernrose vs Wallpaper Woman (Loss)",
+      "volume": "1",
+      "last_updated": "1701380620",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/IaZTiCN/"
+      }
+    },
+    "3": {
+      "title": "Quiet in the Library Penrose v Mugsi",
+      "volume": "1",
+      "last_updated": "1613908800",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/RPi4FQC/"
+      }
+    },
+    "4": {
+      "title": "Inhuman Resources - Penrose vs Amber (Loss)",
+      "volume": "1",
+      "last_updated": "1618401600",
+      "groups": {
+        "Penrose": "/proxy/api/imgur/chapter/PfKmhYh/"
+      }
+    }
+  }
+}
