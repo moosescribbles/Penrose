@@ -1,48 +1,40 @@
 {
-  "title": "Goku Royale 1 - Youngster",
-  "description": "Goku 1 - Youngster",
+  "title": "Goku Royale 2 Comics",
+  "description": "Goku 2 - Penrose",
   "artist": "MooseScribbles",
-  "author": "MooseScribbles",
-  "cover": "https://i.imgur.com/iGzVRYl.png",
+  "author": "RainbowSamphire",
+  "cover": "https://i.imgur.com/N460OZQ.png",
   "chapters": {
-       "1": {
-      "title": "Youngster Intro",
+      "1": {
+      "title": "Penrose Intro",
       "volume": "1",
-      "last_updated": "1701380620",
+      "last_updated": "TK0cY5e",
       "groups": {
-        "Youngster": "/proxy/api/imgur/chapter/GJhA7ZP/"
+        "Penrose": "/proxy/api/imgur/chapter/GJhA7ZP/"
       }
     },
     "2": {
-      "title": "Youngster vs BeeKeeper Uchiha",
+      "title": "Carcosa - Pernrose vs Wallpaper Woman (Loss)",
       "volume": "1",
       "last_updated": "1701380620",
       "groups": {
-        "Youngster": "/proxy/api/imgur/chapter/jJ83Ull/"
+        "Penrose": "/proxy/api/imgur/chapter/IaZTiCN/"
       }
     },
     "3": {
-      "title": "Youngster vs Bonito Whodunit (Loss)",
+      "title": "Quiet in the Library Penrose v Mugsi",
       "volume": "1",
       "last_updated": "1613908800",
       "groups": {
-        "Youngster": "/proxy/api/imgur/chapter/7qTwNtw/"
+        "Penrose": "/proxy/api/imgur/chapter/RPi4FQC/"
       }
     },
     "4": {
-      "title": "Youngster vs Pneumotris Swarm",
-      "volume": "1",
-      "last_updated": "1702849420",
-      "groups": {
-        "Youngster": "/proxy/api/imgur/chapter/ZTSQuhz/"
-      }
-    },
-    "5": {
-      "title": "Youngster v Dave&Mumery v Doomin v Snowball&Zwei (v Dracula)(Loss)",
+      "title": "Inhuman Resources - Penrose vs Amber (Loss)",
       "volume": "1",
       "last_updated": "1618401600",
       "groups": {
-        "Youngster": "/proxy/api/imgur/chapter/QsdZLxq/"
+        "Penrose": "/proxy/api/imgur/chapter/PfKmhYh/"
       }
     }
   }
