@@ -1,72 +1,48 @@
 {
-  "title": "Fog of Graves",
-  "description": "Fog of Graves comics\nRoot and Bud Feat @MrFurjiu",
+  "title": "Goku Royale Comics",
+  "description": "Goku 1 - Youngster",
   "artist": "MooseScribbles",
-  "author": "RainbowSamphire",
-  "cover": "https://i.imgur.com/v4HMvgF.png",
+  "author": "MooseScribbles",
+  "cover": "https://i.imgur.com/iGzVRYl.png",
   "chapters": {
-    "1": {
-      "title": "Intro Comic",
+      "1": {
+      "title": "Goku Royale 1 - Youngster Intro",
       "volume": "1",
-      "last_updated": "1612180800",
+      "last_updated": "1701380620",
       "groups": {
-        "Fog": "/proxy/api/imgur/chapter/102Qqzj/"
+        "Youngster": "/proxy/api/imgur/chapter/GJhA7ZP/"
       }
     },
     "2": {
-      "title": "Grand Battle: Vs 28 Quicksilver",
+      "title": "Goku Royale 1 - Youngster vs BeeKeeper Uchiha",
       "volume": "1",
-      "last_updated": "1613908800",
+      "last_updated": "1701380620",
       "groups": {
-        "Fog": "/proxy/api/imgur/chapter/Xzfmbqa/"
+        "Youngster": "/proxy/api/imgur/chapter/jJ83Ull/"
       }
     },
     "3": {
-      "title": "Royal Blood - Fog of Graves vs Murien",
+      "title": "Goku Royale 1 - Youngster vs Bonito Whodunit (Loss)",
       "volume": "1",
-      "last_updated": "1616414400",
+      "last_updated": "1613908800",
       "groups": {
-        "Fog": "/proxy/api/imgur/chapter/0IrTvKh/"
+        "Youngster": "/proxy/api/imgur/chapter/7qTwNtw/"
       }
     },
     "4": {
-      "title": "Mnem (Loss/NON CANON)",
+      "title": "Goku Royale 1 - Youngster vs Pneumotris Swarm",
       "volume": "1",
-      "last_updated": "1618401600",
+      "last_updated": "1702849420",
       "groups": {
-        "Fog": "/proxy/api/imgur/chapter/B1ORPYl/"
+        "Youngster": "/proxy/api/imgur/chapter/ZTSQuhz/"
       }
     },
     "5": {
-      "title": "Catfight - Fog v Vale & Sylvia",
+      "title": "Goku Royale 1 - Youngster v Dave&Mumery v Doomin v Snowball&Zwei (v Dracula)(Loss)",
       "volume": "1",
-      "last_updated": "1620820800",
+      "last_updated": "1618401600",
       "groups": {
-        "Fog": "/proxy/api/imgur/chapter/TU0j75u/"
-      }
-    },
-    "6": {
-      "title": "Carrion - Fog vs Volik",
-      "volume": "1",
-      "last_updated": "1623758400",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/kXikhrM/"
-      }
-    },
-    "7": {
-      "title": "Feat of Clay - Fog v Brickmancer (Loss/NON CANON)",
-      "volume": "1",
-      "last_updated": "1626782400",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/NymkM1k/"
-      }
-    },
-    "8": {
-      "title": "Root & Bud - Baltazar and Fog v Dreglige and Gilebren",
-      "volume": "1",
-      "last_updated": "1637114460",
-      "groups": {
-        "Fog": "/proxy/api/imgur/chapter/eVYzNL1/"
+        "Youngster": "/proxy/api/imgur/chapter/QsdZLxq/"
       }
     }
   }
